@@ -1,0 +1,338 @@
+{
+    "resnet34": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7697662642723151
+            ],
+            "coverage": 0.9426681367144433,
+            "set_sizes": [
+                0,
+                426,
+                481
+            ]
+        }
+    },
+    "resnet50": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.8304261448104386
+            ],
+            "coverage": 0.9669239250275634,
+            "set_sizes": [
+                0,
+                380,
+                527
+            ]
+        }
+    },
+    "resnet101": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                1,
+                906
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7657868177948672
+            ],
+            "coverage": 0.9658213891951488,
+            "set_sizes": [
+                0,
+                381,
+                526
+            ]
+        }
+    },
+    "vgg16": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                1,
+                906
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7953940202989852
+            ],
+            "coverage": 0.9636163175303197,
+            "set_sizes": [
+                0,
+                379,
+                528
+            ]
+        }
+    },
+    "vgg19": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7620918527738938
+            ],
+            "coverage": 0.9514884233737596,
+            "set_sizes": [
+                0,
+                399,
+                508
+            ]
+        }
+    },
+    "densenet121": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7751074818849037
+            ],
+            "coverage": 0.9625137816979051,
+            "set_sizes": [
+                0,
+                399,
+                508
+            ]
+        }
+    },
+    "densenet169": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7995226235842336
+            ],
+            "coverage": 0.9614112458654906,
+            "set_sizes": [
+                0,
+                395,
+                512
+            ]
+        }
+    },
+    "inception_v3": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7636444448898434
+            ],
+            "coverage": 0.948180815876516,
+            "set_sizes": [
+                0,
+                390,
+                517
+            ]
+        }
+    },
+    "google-vit-base-patch16-224": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.8289153554186917
+            ],
+            "coverage": 0.9636163175303197,
+            "set_sizes": [
+                0,
+                356,
+                551
+            ]
+        }
+    },
+    "facebook-deit-base-distilled-patch16-224": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.8434162322785418
+            ],
+            "coverage": 0.9669239250275634,
+            "set_sizes": [
+                0,
+                332,
+                575
+            ]
+        }
+    },
+    "davit_base-msft_in1k": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.8337600872282426
+            ],
+            "coverage": 0.9558985667034179,
+            "set_sizes": [
+                0,
+                443,
+                464
+            ]
+        }
+    },
+    "maxvit_t": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7441181544436526
+            ],
+            "coverage": 0.9426681367144433,
+            "set_sizes": [
+                0,
+                471,
+                436
+            ]
+        }
+    },
+    "gcvit_base-in1k": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.8032850317870808
+            ],
+            "coverage": 0.9735391400220507,
+            "set_sizes": [
+                0,
+                366,
+                541
+            ]
+        }
+    },
+    "swin_b": {
+        "cross_entropy": {
+            "q_hat": [
+                1.0
+            ],
+            "coverage": 1.0,
+            "set_sizes": [
+                0,
+                0,
+                907
+            ]
+        },
+        "corn": {
+            "q_hat": [
+                0.7752534431666465
+            ],
+            "coverage": 0.9415656008820287,
+            "set_sizes": [
+                0,
+                419,
+                488
+            ]
+        }
+    }
+}

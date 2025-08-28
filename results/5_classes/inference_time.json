@@ -1,0 +1,12 @@
+{
+    "resnet34": {
+        "cross_entropy": {
+            "avg_inference_time": 0.043118767738342285,
+            "time_per_sample": 0.0015399559906550816
+        },
+        "corn": {
+            "avg_inference_time": 0.042095513343811036,
+            "time_per_sample": 0.0015034111908503942
+        }
+    }
+}

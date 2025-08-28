@@ -1,0 +1,142 @@
+{
+    "resnet34": {
+        "cross_entropy": {
+            "avg_inference_time": 0.048369245529174806,
+            "time_per_sample": 0.0017274730546133858
+        },
+        "corn": {
+            "avg_inference_time": 0.04778600215911865,
+            "time_per_sample": 0.0017066429342542375
+        }
+    },
+    "resnet50": {
+        "cross_entropy": {
+            "avg_inference_time": 0.08400076866149903,
+            "time_per_sample": 0.0030000274521963938
+        },
+        "corn": {
+            "avg_inference_time": 0.08462858676910401,
+            "time_per_sample": 0.0030224495274680002
+        }
+    },
+    "resnet101": {
+        "cross_entropy": {
+            "avg_inference_time": 0.14199167728424072,
+            "time_per_sample": 0.005071131331580026
+        },
+        "corn": {
+            "avg_inference_time": 0.14510085582733154,
+            "time_per_sample": 0.005182173422404698
+        }
+    },
+    "vgg16": {
+        "cross_entropy": {
+            "avg_inference_time": 0.1380866289138794,
+            "time_per_sample": 0.004931665318352836
+        },
+        "corn": {
+            "avg_inference_time": 0.1400400161743164,
+            "time_per_sample": 0.005001429149082729
+        }
+    },
+    "vgg19": {
+        "cross_entropy": {
+            "avg_inference_time": 0.16941112518310547,
+            "time_per_sample": 0.006050397327968053
+        },
+        "corn": {
+            "avg_inference_time": 0.16961591243743895,
+            "time_per_sample": 0.006057711158479963
+        }
+    },
+    "densenet121": {
+        "cross_entropy": {
+            "avg_inference_time": 0.08980491638183594,
+            "time_per_sample": 0.0032073184422084264
+        },
+        "corn": {
+            "avg_inference_time": 0.09035636901855469,
+            "time_per_sample": 0.0032270131792340962
+        }
+    },
+    "densenet169": {
+        "cross_entropy": {
+            "avg_inference_time": 0.11063404083251953,
+            "time_per_sample": 0.003951215744018554
+        },
+        "corn": {
+            "avg_inference_time": 0.11054708480834961,
+            "time_per_sample": 0.003948110171726772
+        }
+    },
+    "inception_v3": {
+        "cross_entropy": {
+            "avg_inference_time": 0.11345094203948974,
+            "time_per_sample": 0.004051819358553205
+        },
+        "corn": {
+            "avg_inference_time": 0.1135968542098999,
+            "time_per_sample": 0.004057030507496425
+        }
+    },
+    "google-vit-base-patch16-224": {
+        "cross_entropy": {
+            "avg_inference_time": 0.35953071117401125,
+            "time_per_sample": 0.012840382541928973
+        },
+        "corn": {
+            "avg_inference_time": 0.36179605484008787,
+            "time_per_sample": 0.012921287672860281
+        }
+    },
+    "facebook-deit-base-distilled-patch16-224": {
+        "cross_entropy": {
+            "avg_inference_time": 0.35866044998168944,
+            "time_per_sample": 0.012809301785060337
+        },
+        "corn": {
+            "avg_inference_time": 0.35918776988983153,
+            "time_per_sample": 0.012828134638922555
+        }
+    },
+    "davit_base-msft_in1k": {
+        "cross_entropy": {
+            "avg_inference_time": 0.3651800870895386,
+            "time_per_sample": 0.01304214596748352
+        },
+        "corn": {
+            "avg_inference_time": 0.3704415845870972,
+            "time_per_sample": 0.013230056592396329
+        }
+    },
+    "maxvit_t": {
+        "cross_entropy": {
+            "avg_inference_time": 0.2088606071472168,
+            "time_per_sample": 0.007459307398114886
+        },
+        "corn": {
+            "avg_inference_time": 0.20675927639007569,
+            "time_per_sample": 0.007384259871074132
+        }
+    },
+    "gcvit_base-in1k": {
+        "cross_entropy": {
+            "avg_inference_time": 0.4404495906829834,
+            "time_per_sample": 0.015730342524392264
+        },
+        "corn": {
+            "avg_inference_time": 0.4478846740722656,
+            "time_per_sample": 0.01599588121686663
+        }
+    },
+    "swin_b": {
+        "cross_entropy": {
+            "avg_inference_time": 0.37635897159576415,
+            "time_per_sample": 0.013441391842705862
+        },
+        "corn": {
+            "avg_inference_time": 0.3795620012283325,
+            "time_per_sample": 0.013555785758154732
+        }
+    }
+}
